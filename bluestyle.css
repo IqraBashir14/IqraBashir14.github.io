@@ -1,8 +1,32 @@
 body {
-background-color: lightblue;
+    background-color: #e6ffe6; /* Extra light green */
+    text-align: center; /* Centers text content */
+    font-family: Arial, sans-serif;
 }
 
 h1 {
-color: navy;
-margin-left: 20px;
-} 
+    color: #003366; /* Dark blue */
+    text-align: center; /* Centers the heading */
+    margin: 20px 0;
+}
+
+h3 {
+    color: #660000; /* Dark red for contrast */
+    text-align: left; /* Aligns subheadings to the left */
+    margin-left: 20px;
+}
+
+p {
+    color: #333; /* Dark gray for readability */
+    text-align: left;
+    margin-left: 20px;
+}
+
+a {
+    color: #0066cc; /* Dark blue for links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
