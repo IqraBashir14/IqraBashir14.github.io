@@ -1,32 +1,28 @@
 body {
-    background-color: #ccffcc; /* Lighter green */
-    text-align: center; /* Centers text content */
+    background-color: #ccffcc; 
+    text-align: center; 
     
 }
 
 h1 {
-    color: #003366; /* Dark blue */
-    text-align: center; /* Centers the heading */
+    color: #003366; 
+    text-align: center; 
     margin: 20px 0;
 }
 
 h3 {
-    color: #660000; /* Dark red for contrast */
-    text-align: left; /* Aligns subheadings to the left */
+    color: #660000; 
+    text-align: left; 
     margin-left: 20px;
 }
 
 p {
-    color: #333; /* Dark gray for readability */
+    color: #333; 
     text-align: left;
     margin-left: 20px;
 }
 
 a {
-    color: #0066cc; /* Dark blue for links */
+    color: #0066cc; 
     text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
 }
